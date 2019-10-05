@@ -24,7 +24,7 @@ image of dataset.
 This is anime's pitted-shell turtle.
 In this case, high accuracy was shown.
   
-![keion](path/to/keion.jpg) 
+![predict_s3](path/to/predict5.png) 
 ## Future Plan
 I am going to collect the image of dataset and try again.  
 Furthermore, I want to creat the model of sexual discrimination of reptile(especially common leopard gecko) by only the face.
