@@ -6,12 +6,13 @@ turtle and pitted-shell turtle(the animal like turtle). I prepared the dataset f
 pitted-shell turtle(92 images) by google image. I used AutoML vision(GCP) for the learning of model.   
   
 ![reptile](path/to/reptile1.png)  
+ref:秘密のレプタイルズ,85,9
 ## Result
 This is the result.  
 About turtle images, high accuracy were shown.  
-  
+    
 ![predict_t1](path/to/predict3.png)![predict_t2](path/to/predict4.png)  
-ref:秘密のレプタイルズ,85,9
+
 
   
 About pitted-shell turtle(suppon means), one was shown high accuracy, but another was shown low accuracy. It is thought that the number of 
