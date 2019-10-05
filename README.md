@@ -1,7 +1,7 @@
 # GCP-AutoML-Vision-TIL
 ## Abstract
-When I'm reading manga about reptile, this image lead me to creat the model of Sexual discrimination of reptile by the image of only face.
-I looked for the dataset of reptile(common leopard gecko), but I cannot to find. Instead of this, I did the discrimination of 
+When I'm reading manga about reptile, this image lead me to try creating the model of Sexual discrimination of reptile by the image of only face.
+I looked for the dataset of male and female reptile(common leopard gecko), but I cannot to find. Instead of this, I did the discrimination of 
 turtle and pitted-shell turtle(the animal like turtle). I prepared the dataset for turtle(59 images) and
 pitted-shell turtle(92 images) by google image. I used AutoML vision(GCP) for the learning of model.   
   
